@@ -9,6 +9,8 @@ page 2:
 ->Menu available at all the stores:
 //link:http://localhost:2415/menu
 ***live:https://starbucks-live.onrender.com/menu
+->category based menu
+//link://link:http://localhost:2415/category?categoryId=1
 
 page3:
 ->list of cities :
