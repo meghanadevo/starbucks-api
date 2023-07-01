@@ -1,0 +1,44 @@
+[
+    { 
+        "order_id":1,
+        "name": "Mithun",
+        "email": "Mithun999@gmail.com",
+        "address": "Hno:2-3,HMK colony,Pragathi nagar",
+        "city_name":"Hyderabad",
+        "area_id":2,
+        "phone": 768768686,
+        "Total":1037,
+        "Item_id": [
+          7,
+          9
+        ],
+        "status": "Pending"
+    },
+        {
+            "order_id":2,
+        "name": "Payal",
+        "email": "Payal89@gmail.com",
+        "address": "Hno:4-89/1,Connaught place",
+        "city_name":"Delhi",
+        "area_id":5,
+        "phone":9037474665,
+        "Total":687,
+        "Item_id": 5,
+        "status": "Pending"
+    },
+    {
+        "order_id":3,
+        "name": "krishna",
+        "email": "krishna123@gmail.com",
+        "address": "Hno:2-24/6,Basavanagudi",
+        "city_name":"Banglore",
+        "area_id":4,
+        "phone":8775747469,
+        "Total":2530,
+        "Item_id": [
+            16,
+            27,
+            8
+        ],
+        "status": "Pending"
+    }]

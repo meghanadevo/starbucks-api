@@ -1,0 +1,861 @@
+[
+{
+    "item_id":1,
+    "item_name":"Belgium chocolate Latte",
+    "menu_id":1,
+    "price":450,
+    "menu-img":"https://ibb.co/NSfXQjz",
+    "area_id":1,
+    "category_id":1
+   },
+   {
+       "item_id":2,
+       "item_name":"Salted Dark Caramel latte",
+       "menu_id":1,
+       "price": 350,
+       "menu-img":"https://ibb.co/x6mwNbN",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":3,
+       "item_name":"Caffe Americano",
+       "menu_id":1,
+       "price":480,
+       "menu-img":"https://ibb.co/rtH752d",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":4,
+       "item_name":"Doppio Espresso",
+       "menu_id":1,
+       "price":300,
+       "menu-img":"https://ibb.co/Lv22XTP",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":5,
+       "item_name":"Mango On the Beach",
+       "menu_id":2,
+       "price":687,
+       "menu-img":"https://ibb.co/ZN6syL8",
+       "area_id":1,  
+       "category_id":1
+   },
+   {
+       "item_id":6,
+       "item_name":"Belgium chocolate frappucino",
+       "menu_id":2,
+       "price":500,
+       "menu-img":"https://ibb.co/zQ5xBfB",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":7,
+       "item_name":"Java chip frappucino",
+       "menu_id":2,
+       "price":570,
+       "menu-img":"https://ibb.co/4TgdvG1",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":8,
+       "item_name":"Mocha frappucino",
+       "menu_id":2,
+       "price":540,
+       "menu-img":"https://ibb.co/qnKdwJx",
+       "area_id":1,
+       "category_id":1
+   },
+   {
+       "item_id":9,
+       "item_name":"Chilli cheese toast",
+       "menu_id":3,
+       "price":467,
+       "menu-img":"https://ibb.co/g4bgBbr",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":10,
+       "item_name":"tomato basil bruschetta",
+       "menu_id":3,
+       "price":340,
+       "menu-img":"https://ibb.co/Ksn0f7S",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":11,
+       "item_name":"Pesto & Mozarella sandwiich",
+       "menu_id":3,
+       "price":780,
+       "menu-img":"https://ibb.co/KcZRVT4",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":12,
+       "item_name":"Chicken panini sandwich",
+       "menu_id":3,
+       "price":790,
+       "menu-img":"https://ibb.co/SnCcHct",
+       "area_id":1,
+       "category_id":2 
+   },
+   {
+       "item_id":13,
+       "item_name":"Butter croissant",
+       "menu_id":4,
+       "price":670,
+       "menu-img":"https://ibb.co/yWYKwBx",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":14,
+       "item_name":"chocolate croissant",
+       "menu_id":4,
+       "price":500,
+       "menu-img":"https://ibb.co/CBxgWVt",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":15,
+       "item_name":"three dip nachos",
+       "menu_id":4,
+       "price":430,
+       "menu-img":"https://ibb.co/7N8nNc0",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":16,
+       "item_name":"Cranberry twist",
+       "menu_id":4,
+       "price":340,
+       "menu-img":"https://ibb.co/TKPfQbV",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":17,
+       "item_name":"tribute blend",
+       "menu_id":5,
+       "price":890,
+       "menu-img":"https://ibb.co/S0kn0Df",
+       "area_id":1,
+       "category_id":2
+   },
+   {
+       "item_id":18,
+       "item_name":"Blonde roast",
+       "menu_id":5,
+       "price":900,
+       "menu-img":"https://ibb.co/njxdcqc",
+       "area_id":1,
+       "category_id":3
+   },
+   {
+       "item_id":19,
+       "item_name":"Italian roast",
+       "menu_id":5,
+       "price":1000,
+       "menu-img":"https://ibb.co/T4p1CCf",
+       "area_id":1,
+       "category_id":3
+   },
+   {
+       "item_id":20,
+       "item_name":"Indian Estates",
+       "menu_id":6,
+       "price":1000,
+       "menu-img":"https://ibb.co/xJ01HCN",
+       "area_id":1,
+       "category_id":3
+   },
+   {
+       "item_id":21,
+       "item_name":"Kenya",
+       "menu_id":6,
+       "price":970,
+       "menu-img":"https://ibb.co/Pm7B6f2",
+       "area_id":1,
+       "category_id":3
+   },
+   {
+       "item_id":1,
+       "item_name":"Belgium chocolate Latte",
+       "menu_id":1,
+       "price":450,
+       "menu-img":"https://ibb.co/NSfXQjz",
+       "area_id":2,
+       "category_id":1
+      },
+      {
+          "item_id":2,
+          "item_name":"Salted Dark Caramel latte",
+          "menu_id":1,
+          "price": 350,
+          "menu-img":"https://ibb.co/x6mwNbN",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":3,
+          "item_name":"Caffe Americano",
+          "menu_id":1,
+          "price":480,
+          "menu-img":"https://ibb.co/rtH752d",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":4,
+          "item_name":"Doppio Espresso",
+          "menu_id":1,
+          "price":300,
+          "menu-img":"https://ibb.co/Lv22XTP",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":5,
+          "item_name":"Mango On the Beach",
+          "menu_id":2,
+          "price":687,
+          "menu-img":"https://ibb.co/ZN6syL8",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":6,
+          "item_name":"Belgium chocolate frappucino",
+          "menu_id":2,
+          "price":500,
+          "menu-img":"https://ibb.co/zQ5xBfB",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":7,
+          "item_name":"Java chip frappucino",
+          "menu_id":2,
+          "price":570,
+          "menu-img":"https://ibb.co/4TgdvG1",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":8,
+          "item_name":"Mocha frappucino",
+          "menu_id":2,
+          "price":540,
+          "menu-img":"https://ibb.co/qnKdwJx",
+          "area_id":2,
+          "category_id":1
+      },
+      {
+          "item_id":22,
+          "item_name":"Cearmic pink Mug",
+          "menu_id":7,
+          "price":1200,
+          "menu-img":"https://ibb.co/wYDZG0V",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":23,
+          "item_name":"green ceramic Mug",
+          "menu_id":7,
+          "price":1000,
+          "menu-img":"https://ibb.co/MfCGmp1",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":24,
+          "item_name":"Bunny on yarn ball",
+          "menu_id":7,
+          "price":1500,
+          "menu-img":"https://ibb.co/n6LC1wN",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":25,
+          "item_name":"Bling Yellow cold cup",
+          "menu_id":8,
+          "price":1456,
+          "menu-img":"https://ibb.co/DzSwWh4",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":26,
+          "item_name":"Black stainless steel cup",
+          "menu_id":8,
+          "price":1500,
+          "menu-img":"https://ibb.co/D5HVdKZ",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":27,
+          "item_name":"Butter together cup",
+          "menu_id":8,
+          "price":1650,
+          "menu-img":"https://ibb.co/tq6YvSJ",
+          "area_id":2,
+          "category_id":4
+      },
+      {
+          "item_id":28,
+          "item_name":"Raksha bandhan special chocolate pack",
+          "menu_id":9,
+          "price":1600,
+          "menu-img":"https://ibb.co/rcCCDP9",
+          "area_id":2,
+          "category_id":5
+      },
+      {
+          "item_id":29,
+          "item_name":"Roasted & salted Almonds",
+          "menu_id":9,
+          "price":400,
+          "menu-img":"https://ibb.co/Mh4TjCS",
+          "area_id":2,
+          "category_id":5
+      },
+      {
+          "item_id":30,
+          "item_name":"Roasted & salted Cashews",
+          "menu_id":9,
+          "price":450,
+          "menu-img":"https://ibb.co/cFxKTbF",
+          "area_id":2,
+          "category_id":5
+      },
+      
+   {
+       "item_id":1,
+       "item_name":"Belgium chocolate Latte",
+       "menu_id":1,
+       "price":450,
+       "menu-img":"https://ibb.co/NSfXQjz",
+       "area_id":3,
+       "category_id":1
+      },
+      {
+          "item_id":2,
+          "item_name":"Salted Dark Caramel latte",
+          "menu_id":1,
+          "price": 350,
+          "menu-img":"https://ibb.co/x6mwNbN",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":3,
+          "item_name":"Caffe Americano",
+          "menu_id":1,
+          "price":480,
+          "menu-img":"https://ibb.co/rtH752d",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":4,
+          "item_name":"Doppio Espresso",
+          "menu_id":1,
+          "price":300,
+          "menu-img":"https://ibb.co/Lv22XTP",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":5,
+          "item_name":"Mango On the Beach",
+          "menu_id":2,
+          "price":687,
+          "menu-img":"https://ibb.co/ZN6syL8",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":6,
+          "item_name":"Belgium chocolate frappucino",
+          "menu_id":2,
+          "price":500,
+          "menu-img":"https://ibb.co/zQ5xBfB",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":7,
+          "item_name":"Java chip frappucino",
+          "menu_id":2,
+          "price":570,
+          "menu-img":"https://ibb.co/4TgdvG1",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":8,
+          "item_name":"Mocha frappucino",
+          "menu_id":2,
+          "price":540,
+          "menu-img":"https://ibb.co/qnKdwJx",
+          "area_id":3,
+          "category_id":1
+      },
+      {
+          "item_id":9,
+          "item_name":"Chilli cheese toast",
+          "menu_id":3,
+          "price":467,
+          "menu-img":"https://ibb.co/g4bgBbr",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":10,
+          "item_name":"tomato basil bruschetta",
+          "menu_id":3,
+          "price":340,
+          "menu-img":"https://ibb.co/Ksn0f7S",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":11,
+          "item_name":"Pesto & Mozarella sandwiich",
+          "menu_id":3,
+          "price":780,
+          "menu-img":"https://ibb.co/KcZRVT4",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":12,
+          "item_name":"Chicken panini sandwich",
+          "menu_id":3,
+          "price":790,
+          "menu-img":"https://ibb.co/SnCcHct",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":13,
+          "item_name":"Butter croissant",
+          "menu_id":4,
+          "price":670,
+          "menu-img":"https://ibb.co/yWYKwBx",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":14,
+          "item_name":"chocolate croissant",
+          "menu_id":4,
+          "price":500,
+          "menu-img":"https://ibb.co/CBxgWVt",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":15,
+          "item_name":"three dip nachos",
+          "menu_id":4,
+          "price":430,
+          "menu-img":"https://ibb.co/7N8nNc0",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":16,
+          "item_name":"Cranberry twist",
+          "menu_id":4,
+          "price":340,
+          "menu-img":"https://ibb.co/TKPfQbV",
+          "area_id":3,
+          "category_id":2
+      },
+      {
+          "item_id":28,
+          "item_name":"Raksha bandhan special chocolate pack",
+          "menu_id":9,
+          "price":1600,
+          "menu-img":"https://ibb.co/rcCCDP9",
+          "area_id":3,
+          "category_id":5
+      },
+      {
+          "item_id":29,
+          "item_name":"Roasted & salted Almonds",
+          "menu_id":9,
+          "price":400,
+          "menu-img":"https://ibb.co/Mh4TjCS",
+          "area_id":3,
+          "category_id":5
+      },
+      {
+          "item_id":30,
+          "item_name":"Roasted & salted Cashews",
+          "menu_id":9,
+          "price":450,
+          "menu-img":"https://ibb.co/cFxKTbF",
+          "area_id":3,
+          "category_id":5
+      },     
+   {
+       "item_id":1,
+       "item_name":"Belgium chocolate Latte",
+       "menu_id":1,
+       "price":450,
+       "menu-img":"https://ibb.co/NSfXQjz",
+       "area_id":4,
+       "category_id":1
+      },
+      {
+          "item_id":2,
+          "item_name":"Salted Dark Caramel latte",
+          "menu_id":1,
+          "price": 350,
+          "menu-img":"https://ibb.co/x6mwNbN",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":3,
+          "item_name":"Caffe Americano",
+          "menu_id":1,
+          "price":480,
+          "menu-img":"https://ibb.co/rtH752d",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":4,
+          "item_name":"Doppio Espresso",
+          "menu_id":1,
+          "price":300,
+          "menu-img":"https://ibb.co/Lv22XTP",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":5,
+          "item_name":"Mango On the Beach",
+          "menu_id":2,
+          "price":687,
+          "menu-img":"https://ibb.co/ZN6syL8",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":6,
+          "item_name":"Belgium chocolate frappucino",
+          "menu_id":2,
+          "price":500,
+          "menu-img":"https://ibb.co/zQ5xBfB",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":7,
+          "item_name":"Java chip frappucino",
+          "menu_id":2,
+          "price":570,
+          "menu-img":"https://ibb.co/4TgdvG1",
+          "area_id":4,
+          "category_id":1
+      },
+      {
+          "item_id":8,
+          "item_name":"Mocha frappucino",
+          "menu_id":2,
+          "price":540,
+          "menu-img":"https://ibb.co/qnKdwJx",
+          "area_id":4
+      },
+      {
+          "item_id":9,
+          "item_name":"Chilli cheese toast",
+          "menu_id":3,
+          "price":467,
+          "menu-img":"https://ibb.co/g4bgBbr",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":10,
+          "item_name":"tomato basil bruschetta",
+          "menu_id":3,
+          "price":340,
+          "menu-img":"https://ibb.co/Ksn0f7S",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":11,
+          "item_name":"Pesto & Mozarella sandwiich",
+          "menu_id":3,
+          "price":780,
+          "menu-img":"https://ibb.co/KcZRVT4",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":12,
+          "item_name":"Chicken panini sandwich",
+          "menu_id":3,
+          "price":790,
+          "menu-img":"https://ibb.co/SnCcHct",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":13,
+          "item_name":"Butter croissant",
+          "menu_id":4,
+          "price":670,
+          "menu-img":"https://ibb.co/yWYKwBx",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":14,
+          "item_name":"chocolate croissant",
+          "menu_id":4,
+          "price":500,
+          "menu-img":"https://ibb.co/CBxgWVt",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":15,
+          "item_name":"three dip nachos",
+          "menu_id":4,
+          "price":430,
+          "menu-img":"https://ibb.co/7N8nNc0",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":16,
+          "item_name":"Cranberry twist",
+          "menu_id":4,
+          "price":340,
+          "menu-img":"https://ibb.co/TKPfQbV",
+          "area_id":4,
+          "category_id":2
+      },
+      {
+          "item_id":22,
+          "item_name":"Cearmic pink Mug",
+          "menu_id":7,
+          "price":1200,
+          "menu-img":"https://ibb.co/wYDZG0V",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":23,
+          "item_name":"green ceramic Mug",
+          "menu_id":7,
+          "price":1000,
+          "menu-img":"https://ibb.co/MfCGmp1",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":24,
+          "item_name":"Bunny on yarn ball",
+          "menu_id":7,
+          "price":1500,
+          "menu-img":"https://ibb.co/n6LC1wN",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":25,
+          "item_name":"Bling Yellow cold cup",
+          "menu_id":8,
+          "price":1456,
+          "menu-img":"https://ibb.co/DzSwWh4",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":26,
+          "item_name":"Black stainless steel cup",
+          "menu_id":8,
+          "price":1500,
+          "menu-img":"https://ibb.co/D5HVdKZ",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":27,
+          "item_name":"Butter together cup",
+          "menu_id":8,
+          "price":1650,
+          "menu-img":"https://ibb.co/tq6YvSJ",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":28,
+          "item_name":"Raksha bandhan special chocolate pack",
+          "menu_id":9,
+          "price":1600,
+          "menu-img":"https://ibb.co/rcCCDP9",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":29,
+          "item_name":"Roasted & salted Almonds",
+          "menu_id":9,
+          "price":400,
+          "menu-img":"https://ibb.co/Mh4TjCS",
+          "area_id":4,
+          "category_id":4
+      },
+      {
+          "item_id":30,
+          "item_name":"Roasted & salted Cashews",
+          "menu_id":9,
+          "price":450,
+          "menu-img":"https://ibb.co/cFxKTbF",
+          "area_id":4,
+          "category_id":4
+      },
+      
+   {
+       "item_id":1,
+       "item_name":"Belgium chocolate Latte",
+       "menu_id":1,
+       "price":450,
+       "menu-img":"https://ibb.co/NSfXQjz",
+       "area_id":5,
+       "category_id":1
+      },
+      {
+          "item_id":2,
+          "item_name":"Salted Dark Caramel latte",
+          "menu_id":1,
+          "price": 350,
+          "menu-img":"https://ibb.co/x6mwNbN",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":3,
+          "item_name":"Caffe Americano",
+          "menu_id":1,
+          "price":480,
+          "menu-img":"https://ibb.co/rtH752d",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":4,
+          "item_name":"Doppio Espresso",
+          "menu_id":1,
+          "price":300,
+          "menu-img":"https://ibb.co/Lv22XTP",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":5,
+          "item_name":"Mango On the Beach",
+          "menu_id":2,
+          "price":687,
+          "menu-img":"https://ibb.co/ZN6syL8",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":6,
+          "item_name":"Belgium chocolate frappucino",
+          "menu_id":2,
+          "price":500,
+          "menu-img":"https://ibb.co/zQ5xBfB",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":7,
+          "item_name":"Java chip frappucino",
+          "menu_id":2,
+          "price":570,
+          "menu-img":"https://ibb.co/4TgdvG1",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":8,
+          "item_name":"Mocha frappucino",
+          "menu_id":2,
+          "price":540,
+          "menu-img":"https://ibb.co/qnKdwJx",
+          "area_id":5,
+          "category_id":1
+      },
+      {
+          "item_id":17,
+          "item_name":"tribute blend",
+          "menu_id":5,
+          "price":890,
+          "menu-img":"https://ibb.co/S0kn0Df",
+          "area_id":5,
+          "category_id":3
+      },
+      {
+          "item_id":18,
+          "item_name":"Blonde roast",
+          "menu_id":5,
+          "price":900,
+          "menu-img":"https://ibb.co/njxdcqc",
+          "area_id":5,
+          "category_id":3
+      },
+      {
+          "item_id":19,
+          "item_name":"Italian roast",
+          "menu_id":5,
+          "price":1000,
+          "menu-img":"https://ibb.co/T4p1CCf",
+          "area_id":5,
+          "category_id":3
+      },
+      {
+          "item_id":20,
+          "item_name":"Indian Estates",
+          "menu_id":6,
+          "price":1000,
+          "menu-img":"https://ibb.co/xJ01HCN",
+          "area_id":5,
+          "category_id":3
+      },
+      {
+          "item_id":21,
+          "item_name":"Kenya",
+          "menu_id":6,
+          "price":970,
+          "menu-img":"https://ibb.co/Pm7B6f2",
+          "area_id":5,
+          "category_id":3
+      }
+   ]
+
+
+
