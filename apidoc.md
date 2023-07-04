@@ -7,8 +7,8 @@ page 1:
 
 page 2:
 ->Menu available at all the stores:
-//link:http://localhost:2415/menu
-***live:https://starbucks-live.onrender.com/menu
+//link:http://localhost:2415/menu?areaId=1&categoryId=1
+***live:https://starbucks-live.onrender.com/menu?areaId=1&categoryId=1
 ->category based menu
 //link://link:http://localhost:2415/category?categoryId=1
 
