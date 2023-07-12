@@ -69,8 +69,8 @@ app.get('/filter/:categoryId',async(req,res)=>{
     //details
     app.get('/details/:id',async(req,res)=>{
         let id = Number(req.params.id)
-        let query={area_id:id}
-        let collection = "area"
+        let query={item_id:id}
+        let collection = "category"
         let output = await getData(collection,query)
         res.send(output)
     })
