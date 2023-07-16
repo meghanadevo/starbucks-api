@@ -62,7 +62,7 @@ app.get('/filter/:categoryId',async(req,res)=>{
     else{
         query={};
     }
-    let collection = "area"
+    let collection = "category"
     let output = await getData(collection,query)
     res.send(output)
     })
