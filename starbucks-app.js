@@ -55,8 +55,8 @@ app.get('/filter/:categoryId',async(req,res)=>{
     let menuId = Number(req.query.menuId)
     if(menuId){
         query={
-            "foodCategory.category_id":categoryId,
-            "menuType.menu_id":menuId
+            category_id:categoryId,
+            menu_id:menuId
         }
     }
     else{
